@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**ccq1/ccq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名专注于 **AI 赋能安全工程** 与 **多智能体自动化系统** 的工程师，关注如何将大模型与真实工具链结合，提升复杂技术工作的效率与可控性。
 
-Here are some ideas to get you started:
+🔭 **我当前正在做的事情**
+- **AI + 逆向工程 / 渗透测试赋能**  
+  探索将大语言模型与逆向分析、漏洞挖掘、渗透测试流程相结合，通过 agent 化的方式提升分析效率与自动化水平。
+- **自动化 Agent 看板与控制平面**  
+  构建一个以终端为核心的管理系统，用于统一管理、调度和监控多个 agent workers，实现对智能体的集中控制。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **我正在学习的方向**
+- **前端开发：React + Tailwind CSS**  
+  用于快速构建美观、可维护的工具型前端界面，服务于 agent 控制面与内部系统。
+- **持续深入代理工程（Agent Engineering）**  
+  学习智能体架构设计、任务拆解、长期运行 agent 以及多 agent 协作模式。
+
+👯 **我希望参与协作的方向**
+- AI 驱动的安全工具（逆向工程、渗透测试、DevSecOps）
+- Agent 框架、调度系统与自动化工作流
+
+🤔 **我目前关注和思考的问题**
+- 多 agent 系统的可观测性与控制平面设计
+- 如何将 LLM agent 稳定地接入真实安全工具链
+
+💬 **可以和我交流的话题**
+- AI Agent 与自动化系统设计
+- 逆向工程与渗透测试流程
+- Python 工具开发、CLI 系统、容器化环境
+
+📫 **联系方式**
+- GitHub：https://github.com/ccq1
+
+⚡ **一点小趣事**
+- 我喜欢把复杂、安全相关的流程，重构成可以在终端中统一管理的 agent 系统。
