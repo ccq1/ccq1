@@ -20,7 +20,7 @@
 
 💬 **可以和我交流的话题**
 - AI Agent 与自动化系统设计
-- 大预言模型如何提高安全工程师的工作效率 
+- LLMs、Agents、RAGs、逆向工程、软件成分检测（SCA）、渗透测试等
 
 📫 **联系方式**
 - GitHub：https://github.com/ccq1
